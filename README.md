@@ -5,7 +5,9 @@ defacer.pro ip grabber
 kalo semisal ada yang nanya kok malah di buat ip grabber bukan domain grabber<br>
 jawaban gua: karena web nya nyebelin kalo di buat tools domain grabber :)<br>
 jadi mending ip grabber aja lebih gampang dan enak jadi entar lo tinggal<br>
-reverse ip aja ok :)<br>
+reverse ip aja biar dapet domain nya tambah banyak ok :)<br>
+oiya kalo semisal pun gua paksain buat di buat domain grabber nya<br>
+pasti isinya bakalan ancur isi .txt nya :)<br>
 <br>
 note:
 tolong ya panteq kalo kau berhasil decode itu toolsnya<br>
